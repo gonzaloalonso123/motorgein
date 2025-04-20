@@ -13,7 +13,7 @@ const blogs = [
     author: "Michael Turner",
     description:
       "Een diepgaande review van de nieuwste BMW M3 G80 in zijn opvallende groene kleur, met een verkenning van zijn prestaties, technologie en rijdynamiek.",
-    featuredImage: "/images/green-bmw-m3.webp",
+    featuredImage: "/images/bmw-green.jpeg",
     tags: ["Review", "Prestaties", "BMW"],
   },
   {
@@ -22,7 +22,7 @@ const blogs = [
     date: "15 april 2025",
     author: "Sarah Johnson",
     description: "Houd je BMW M4 in topconditie met deze expert onderhoudstips en -schema's.",
-    featuredImage: "/images/blue-bmw-m4.webp",
+    featuredImage: "/images/bmw-blue.jpeg",
     tags: ["Onderhoud", "DIY", "BMW"],
   },
   {
@@ -32,7 +32,7 @@ const blogs = [
     author: "James Wilson",
     description:
       "Hoe verhoudt de BMW M8 Competition zich tot zijn rivalen? We testen hem tegen het beste van Mercedes-AMG en Audi RS.",
-    featuredImage: "/images/blue-bmw-m8.webp",
+    featuredImage: "/images/bmw-blue.jpeg",
     tags: ["Vergelijking", "Prestaties", "BMW"],
   },
 ]

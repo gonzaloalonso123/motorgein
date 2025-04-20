@@ -16,7 +16,7 @@ const blogs = [
     author: "Michael Turner",
     description:
       "Een diepgaande review van de nieuwste BMW M3 G80 in zijn opvallende groene kleur, met een verkenning van zijn prestaties, technologie en rijdynamiek.",
-    featuredImage: "/images/green-bmw-m3.webp",
+    featuredImage: "/images/bmw-green.jpeg",
     tags: ["Review", "Prestaties", "BMW"],
   },
   {
@@ -25,7 +25,7 @@ const blogs = [
     date: "15 april 2025",
     author: "Sarah Johnson",
     description: "Houd je BMW M4 in topconditie met deze expert onderhoudstips en -schema's.",
-    featuredImage: "/images/blue-bmw-m4.webp",
+    featuredImage: "/images/bmw-blue.jpeg",
     tags: ["Onderhoud", "DIY", "BMW"],
   },
   {
@@ -35,7 +35,7 @@ const blogs = [
     author: "James Wilson",
     description:
       "Hoe verhoudt de BMW M8 Competition zich tot zijn rivalen? We testen hem tegen het beste van Mercedes-AMG en Audi RS.",
-    featuredImage: "/images/blue-bmw-m8.webp",
+    featuredImage: "/images/bmw-blue.jpeg",
     tags: ["Vergelijking", "Prestaties", "BMW"],
   },
   {
@@ -54,7 +54,7 @@ const blogs = [
     date: "30 maart 2025",
     author: "Elizabeth Chen",
     description: "Onze gedetailleerde review van de nieuwe BMW 7 Serie en hoe deze het luxe sedan landschap verandert.",
-    featuredImage: "/images/black-bmw.webp",
+    featuredImage: "/images/bmw-black.jpeg",
     tags: ["Review", "Luxe", "BMW"],
   },
   {
@@ -106,7 +106,7 @@ export default function BlogsPage() {
       <section className="relative py-16 md:py-24 overflow-hidden">
         <div className="absolute inset-0 z-0">
           <div className="absolute inset-0 bg-gradient-to-r from-black via-black/90 to-black/80" />
-          <Image src="/images/blue-bmw-m4.webp" alt="Blog Hero" fill className="object-cover opacity-30" />
+          <Image src="/images/bmw-blue.jpeg" alt="Blog Hero" fill className="object-cover opacity-30" />
         </div>
         <div className="container relative z-10">
           <div className="max-w-2xl">

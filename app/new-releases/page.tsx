@@ -177,7 +177,7 @@ export default function NewReleasesPage() {
                 <CarModelCard
                   title="BMW 7 Serie 760i xDrive"
                   description="Vlaggenschip luxe sedan met V8 motor en de nieuwste technologie."
-                  image="/images/black-bmw.webp"
+                  image="/images/bmw-black.jpeg"
                   specs={{
                     power: "544 pk",
                     acceleration: "4.2s (0-100 km/u)",
@@ -210,7 +210,7 @@ export default function NewReleasesPage() {
                 <CarModelCard
                   title="BMW M4 CS"
                   description="Gelimiteerde editie van de M4 met meer vermogen en minder gewicht."
-                  image="/images/red-bmw.webp"
+                  image="/images/bmw-red.jpeg"
                   specs={{
                     power: "550 pk",
                     acceleration: "3.4s (0-100 km/u)",
@@ -238,7 +238,7 @@ export default function NewReleasesPage() {
                 <CarModelCard
                   title="BMW M5"
                   description="Nieuwe generatie M5 met hybride aandrijflijn voor ongekende prestaties."
-                  image="/images/blue-bmw-m8.webp"
+                  image="/images/bmw-blue.jpeg"
                   specs={{
                     power: "700+ pk",
                     acceleration: "3.0s (0-100 km/u)",

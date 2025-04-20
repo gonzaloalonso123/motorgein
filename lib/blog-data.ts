@@ -19,8 +19,8 @@ export const sampleBlog: Blog = {
   author: "Michael Turner",
   description:
     "An in-depth review of the latest BMW M3 G80 in its striking green color, exploring its performance, technology, and driving dynamics.",
-  featuredImage: "/images/green-bmw-m3.webp",
-  gallery: ["/images/green-bmw-m3.webp", "/images/blue-bmw-m4.webp", "/images/red-bmw.webp"],
+  featuredImage: "/images/bmw-green.jpeg",
+  gallery: ["/images/bmw-green.jpeg", "/images/bmw-blue.jpeg", "/images/bmw-red.jpeg"],
   tags: ["Review", "Performance", "BMW"],
   content: `
     ## The BMW M3 G80: A Green Monster with Racing DNA

@@ -17,7 +17,7 @@ export default function ReviewsPage() {
       <section className="relative py-16 md:py-24 overflow-hidden">
         <div className="absolute inset-0 z-0">
           <div className="absolute inset-0 bg-gradient-to-r from-black via-black/90 to-black/80" />
-          <Image src="/images/green-bmw-m3.webp" alt="Auto Reviews" fill className="object-cover opacity-30" />
+          <Image src="/images/bmw-green.jpeg" alt="Auto Reviews" fill className="object-cover opacity-30" />
         </div>
         <div className="container relative z-10">
           <div className="max-w-2xl">
@@ -79,7 +79,7 @@ export default function ReviewsPage() {
             <ReviewCard
               title="BMW M3 G80 Competition"
               description="Een diepgaande review van de nieuwste BMW M3 G80 in zijn opvallende groene kleur, met een verkenning van zijn prestaties, technologie en rijdynamiek."
-              image="/images/green-bmw-m3.webp"
+              image="/images/bmw-green.jpeg"
               rating={4.8}
               author="Michael Turner"
               date="19 april 2025"
@@ -89,7 +89,7 @@ export default function ReviewsPage() {
             <ReviewCard
               title="BMW M4 Competition"
               description="Onze uitgebreide review van de BMW M4 Competition - van zijn controversiële design tot zijn adembenemende prestaties."
-              image="/images/red-bmw.webp"
+              image="/images/bmw-red.jpeg"
               rating={4.7}
               author="James Wilson"
               date="17 april 2025"
@@ -99,7 +99,7 @@ export default function ReviewsPage() {
             <ReviewCard
               title="BMW M8 Competition"
               description="Hoe verhoudt de BMW M8 Competition zich tot zijn rivalen? We testen hem tegen het beste van Mercedes-AMG en Audi RS."
-              image="/images/blue-bmw-m8.webp"
+              image="/images/bmw-blue.jpeg"
               rating={4.9}
               author="James Wilson"
               date="10 april 2025"

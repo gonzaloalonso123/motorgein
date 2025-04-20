@@ -13,7 +13,7 @@ export default function Home() {
       <section className="relative h-[80vh] overflow-hidden">
         <div className="absolute inset-0">
           <Image
-            src="/images/green-bmw-m3.webp"
+            src="/images/bmw-green.jpeg"
             alt="Groene BMW M3"
             fill
             className="object-cover brightness-50"
@@ -130,7 +130,7 @@ export default function Home() {
               <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
                 <Card className="bg-black border border-teal-600/20 overflow-hidden">
                   <div className="relative h-64">
-                    <Image src="/images/red-bmw.webp" alt="Rode BMW Sportwagen" fill className="object-cover" />
+                    <Image src="/images/bmw-red.jpeg" alt="Rode BMW Sportwagen" fill className="object-cover" />
                   </div>
                   <CardContent className="p-6">
                     <h3 className="text-xl font-bold mb-2">BMW M4 Competition</h3>
@@ -147,7 +147,7 @@ export default function Home() {
                 </Card>
                 <Card className="bg-black border border-teal-600/20 overflow-hidden">
                   <div className="relative h-64">
-                    <Image src="/images/blue-bmw-m8.webp" alt="Blauwe BMW M8" fill className="object-cover" />
+                    <Image src="/images/bmw-blue.jpeg" alt="Blauwe BMW M8" fill className="object-cover" />
                   </div>
                   <CardContent className="p-6">
                     <h3 className="text-xl font-bold mb-2">BMW M8 Coupe</h3>
@@ -162,7 +162,7 @@ export default function Home() {
                 </Card>
                 <Card className="bg-black border border-teal-600/20 overflow-hidden">
                   <div className="relative h-64">
-                    <Image src="/images/blue-bmw-m4.webp" alt="Blauwe BMW M4" fill className="object-cover" />
+                    <Image src="/images/bmw-blue.jpeg" alt="Blauwe BMW M4" fill className="object-cover" />
                   </div>
                   <CardContent className="p-6">
                     <h3 className="text-xl font-bold mb-2">BMW M4 CSL</h3>
@@ -182,7 +182,7 @@ export default function Home() {
                 <Card className="bg-black border border-teal-600/20 overflow-hidden">
                   <div className="relative h-64">
                     <Image
-                      src="/images/white-bmw-gran-coupe.webp"
+                      src="/images/bmw-white.jpeg"
                       alt="Witte BMW Gran Coupe"
                       fill
                       className="object-cover"
@@ -201,7 +201,7 @@ export default function Home() {
                 </Card>
                 <Card className="bg-black border border-teal-600/20 overflow-hidden">
                   <div className="relative h-64">
-                    <Image src="/images/white-bmw-profile.webp" alt="Witte BMW Profiel" fill className="object-cover" />
+                    <Image src="/images/bmw-white.jpeg" alt="Witte BMW Profiel" fill className="object-cover" />
                   </div>
                   <CardContent className="p-6">
                     <h3 className="text-xl font-bold mb-2">BMW 8 Serie</h3>
@@ -216,7 +216,7 @@ export default function Home() {
                 </Card>
                 <Card className="bg-black border border-teal-600/20 overflow-hidden">
                   <div className="relative h-64">
-                    <Image src="/images/black-bmw.webp" alt="Zwarte BMW" fill className="object-cover" />
+                    <Image src="/images/bmw-black.jpeg" alt="Zwarte BMW" fill className="object-cover" />
                   </div>
                   <CardContent className="p-6">
                     <h3 className="text-xl font-bold mb-2">BMW 7 Serie</h3>
