@@ -9,9 +9,7 @@ const nextConfig = {
   images: {
     unoptimized: true,
   },
-}
+  output: "standalone",
+};
 
-module.exports = {
-  output: 'standalone'
-}
-export default nextConfig
+export default nextConfig;
